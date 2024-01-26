@@ -10,10 +10,12 @@ website:
         text: Home
       - href: cv.qmd
         text: CV
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
 
