@@ -1,11 +1,7 @@
 ---
-title: "MICROECONOMETRICS QUARTO WEBSITE"
+title: "MICHAEL ADU-GYAMFI"
 ---
 
-This is a Quarto website.
+Welcome to my personal website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am an MA Economics student at Memorial University of Newfoundland and Labrador, deeply passionate about Health and Welfare Economics. As an aspiring lecturer, my commitment lies in fostering the holistic development of students, empowering them to reach new heights in their academic journey. Currently serving as a Research Assistant and Graduate Assistant at Memorial University, I am immersed in the world of economic research and student mentorship. This platform is designed to provide you with insights into my academic journey, research interests, and teaching philosophy. Explore the dedicated sections on my research works, gaining a deeper understanding of the pivotal role economics plays in shaping health and welfare policies. Join me in this intellectual exploration as we navigate the realms of economic theory and its practical applications. I invite you to connect, engage, and share in the collective pursuit of knowledge. Feel free to peruse my website and discover more about my academic pursuits and the exciting world of Health and Welfare Economics. Welcome aboard!
