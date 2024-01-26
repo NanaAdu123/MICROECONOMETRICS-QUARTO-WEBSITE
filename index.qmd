@@ -1,5 +1,7 @@
 ---
 title: "MICHAEL ADU-GYAMFI"
+about: jolla
+image: "WebsiteProfile-pic.png"
 ---
 
 Welcome to my personal website!
