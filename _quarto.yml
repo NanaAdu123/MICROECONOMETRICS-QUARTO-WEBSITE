@@ -10,8 +10,16 @@ website:
         text: Home
       - href: cv.qmd
         text: CV
+    right:
       - href: contact.qmd
         text: Contact
+    tools:
+      - icon: twitter
+        href: https://twitter.com/home 
+      - icon: facebook
+        href: https://www.facebook.com/ 
+    page-footer:
+      right: Built with [Quarto](https://quarto.org/)
 
 format:
   html:

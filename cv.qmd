@@ -5,7 +5,7 @@ title: "CV"
 # Contact Information
 
 -   Mobile: +1 (709) 853-5675
--   LinkedIn: [My LinkedIn Account](https://www.linkedin.com/in/michael-adu-gyamfi-7a96311bb/)\
+-   LinkedIn: [My LinkedIn Account](https://www.linkedin.com/in/michael-adu-gyamfi-7a96311bb/)
 -   Email: madugyamfi\@mun.ca
 -   Address: 215A Empire Avenue, St. John’s (NL-Canada)
 -   Postal Code: A1C 3H3
